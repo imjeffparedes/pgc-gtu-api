@@ -1,0 +1,44 @@
+{
+  "name": "pgc-gtu-api",
+  "version": "0.1.0",
+  "description": "Global Top Up API wrapper for Node.js",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/imjeffparedes/pgc-gtu-api.git"
+  },
+  "keywords": [
+  ],
+  "author": "Jeff Paredes <imjeffparedes@gmail.com> (https://github.com/imjeffparedes)",
+  "contributors": [
+  ],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/imjeffparedes/pgc-gtu-api/issues"
+  },
+  "homepage": "https://github.com/imjeffparedes/pgc-gtu-api#readme",
+  "dependencies": {
+    "request": "^2.69.0"
+  },
+  "blah": {
+    "description": "Global Top Up API wrapper for nodejs"
+  },
+  "files": [
+    "bin/",
+    "app/",
+    "lib/",
+    "dist/",
+    "src/",
+    "scripts/",
+    "resources/",
+    "menu/",
+    "cli.js",
+    "index.js",
+    "bloggify.js",
+    "bloggify.json",
+    "bloggify/"
+  ]
+}
