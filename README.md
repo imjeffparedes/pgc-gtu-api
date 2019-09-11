@@ -33,7 +33,6 @@ var client = new GTU({
   , dealerCode: process.env.dealerCode
     // This is optional
   , host: process.env.HOST || "https://gtu.pldtglobal.com"
-  , port: '8444'
   , timeout: 60*1000
 });
 
@@ -75,7 +74,6 @@ Creates the instance of the `GTU` class.
  - **String** `privateKey` : GTU API wallet private key credentials (mandatory).
  - **String** `dealerCode` : GTU API wallet dealerCode credentials (mandatory).
  - **String** `host` : GTU api host (Optional default: `https://gtu.pldtglobal.com/`).
- - **Integer** `port` : GTU api instance port. (Optional default: 443).
  - **Integer** `timeout` : integer containing the number of milliseconds to wait for a server to send response headers (and start the response body) before aborting the request.  (Optional default: 60000).
 
 

@@ -3,12 +3,11 @@
 const GTU = require("../lib");
 
 var client = new GTU({
-    publicKey: process.env.publicKey
+    publicKey: process.env.publicKey 
   , privateKey: process.env.privateKey
   , dealerCode: process.env.dealerCode
     // This is optional
-  , host: process.env.HOST
-  , port: process.env.PORT
+  , host: process.env.HOST 
   , timeout: process.env.TIMEOUT
 });
 
