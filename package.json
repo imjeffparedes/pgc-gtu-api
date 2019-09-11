@@ -1,6 +1,6 @@
 {
   "name": "pgc-gtu-api",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Global Top Up API wrapper for Node.js",
   "main": "lib/index.js",
   "scripts": {
@@ -11,6 +11,12 @@
     "url": "git+ssh://git@github.com/imjeffparedes/pgc-gtu-api.git"
   },
   "keywords": [
+    "pgc",
+    "pldt",
+    "gtu",
+    "api",
+    "wrapper",
+    "philippines"
   ],
   "author": "Jeff Paredes <imjeffparedes@gmail.com> (https://github.com/imjeffparedes)",
   "contributors": [
