@@ -1,6 +1,6 @@
 {
   "name": "pgc-gtu-api",
-  "version": "0.1.4",
+  "version": "0.1.5",
   "description": "Global Top Up API wrapper for Node.js",
   "main": "lib/index.js",
   "scripts": {
